@@ -170,4 +170,4 @@ Jika Anda ingin menjalankan API ini di komputer lokal (Localhost), ikuti langkah
 Aplikasi API ini telah diunggah ke Vercel dan terhubung dengan database *cloud* Supabase, sehingga dapat diakses dan diuji secara publik tanpa perlu menjalankan *server* lokal.
 
 - **Base URL Vercel (Gunakan ini di Postman):**
-  👉 **[MASUKKAN_LINK_DEPLOYMENT_VERCEL_ANDA_DI_SINI]**
+   **https://rest-api-sederhana-untuk-layanan-pe.vercel.app/**
